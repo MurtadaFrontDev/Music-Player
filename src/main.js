@@ -33,9 +33,15 @@ const songs = [
   },
   {
     path: "assets/moneytrees.mp3",
-    displayName: "The Charmer's Call",
+    displayName: "Money Trees",
     cover: "assets/moneytrees.jpg",
     artist: "Kendrick Lamar,Jay Rock",
+  },
+  {
+    path: "assets/sway.mp3",
+    displayName: "sway",
+    cover: "assets/sway.jpg",
+    artist: "Michael Bublé",
   },
 ];
 
