@@ -22,7 +22,7 @@ const songs = [
     {
     path: "assets/nightchanges.mp3",
     displayName: "Night Changes",
-    cover: "assets/nightchanges.jpg",
+    cover: "assets/nightchanges.png",
     artist: "One Direction",
   },
   {
