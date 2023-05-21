@@ -19,6 +19,12 @@ const songs = [
     cover: "assets/spacesong.jpg",
     artist: "Beach House",
   },
+    {
+    path: "assets/nightchanges.mp3",
+    displayName: "Night Changes",
+    cover: "assets/nightchanges.jpg",
+    artist: "One Direction",
+  },
   {
     path: "assets/theloser.mp3",
     displayName: "The Loser",
